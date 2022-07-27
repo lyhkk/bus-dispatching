@@ -1,7 +1,4 @@
-/* dispatches the bus with FCFS(First Come First Serve) Strategy, ACCEPTED on OJ
-@author: Jiuhe Chen
-@date: 2 June 2022
-*/
+
 #include "joint.h"
 #include "FCFS.h"
 
