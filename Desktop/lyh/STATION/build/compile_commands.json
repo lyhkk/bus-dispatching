@@ -1,7 +1,0 @@
-[
-{
-  "directory": "C:/Users/86136/Desktop/lyh/STATION/build",
-  "command": "gcc   -g -std=c99 -std=gnu11 -o CMakeFiles/STATION.dir/main.c.obj -c C:/Users/86136/Desktop/lyh/STATION/main.c",
-  "file": "C:/Users/86136/Desktop/lyh/STATION/main.c"
-}
-]
