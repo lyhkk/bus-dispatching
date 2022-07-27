@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>bus.png</file>
+        <file>bus90.png</file>
+        <file>bus180.png</file>
+        <file>bus270.png</file>
+        <file>bus-.png</file>
+        <file>bus-90.png</file>
+        <file>bus-180.png</file>
+        <file>bus-270.png</file>
+    </qresource>
+</RCC>

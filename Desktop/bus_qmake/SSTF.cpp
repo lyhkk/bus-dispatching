@@ -1,4 +1,4 @@
-#include <mainwindow.h>
+#include "mainwindow.h"
 #define min(a,b) (((a) < (b)) ? (a) : (b))
 
 int i_lyh = 0;
@@ -63,7 +63,7 @@ void bus::getBy( int totDistance, int distance ) { //是否顺便以及获得目
         return;
     }
     if(aim == -1) {
-        aim = regain_aim(position);
+        aim = request->next->aim;
         if(aim != -1) {
             direction = direction_decision(aim);
             if(direction == 1) {
